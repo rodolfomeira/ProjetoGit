@@ -1,6 +1,9 @@
 # ProjetoGit
 Command Line Interface (Usar o git para lincar as pasta no computador no GitHub).
 
+0- Para limpar o GIT
+$ clear
+
 1-	Crie uma pasta;
 
 2-	No GIT:
@@ -58,5 +61,16 @@ $ git fetch ;
 $ git status ;
 $ git pull ;
 
+12- Criar e ir para nova branches
+$ git checkout -b "novo" ;
 
+13- Para mudar as branches
+$ git checkout main ou outra branches ;
 
+14- Juntar com branche main
+$ git merge NOVO ;
+$ git push ;
+
+15- Puxar alteração do GitHub para pasta
+$ 
+git pull
